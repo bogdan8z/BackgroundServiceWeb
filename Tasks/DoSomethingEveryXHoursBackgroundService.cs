@@ -51,7 +51,7 @@ namespace BackgroundServiceWeb.Tasks
         {
             //do something on every 10seconds
             //..
-            //Console.WriteLine($"background work: {DateTime.Now}");
+            Console.WriteLine($"background work: {DateTime.Now}");
 
             return Task.CompletedTask;
         }
