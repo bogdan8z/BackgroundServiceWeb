@@ -1,4 +1,4 @@
-# Background Task using ASP.NET Core Web API
+# Background Processing Service for ASP.NET Core Web
 * Using .NET 6.0
 * The background task can be found in [Tasks](Tasks/) folder and will run every 10seconds (configurable)
 
